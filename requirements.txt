@@ -1,0 +1,8 @@
+numpy
+Pillow>=9.0.0
+pandas
+requests
+huggingface_hub
+onnxruntime
+tkinterdnd2
+opencv-python
