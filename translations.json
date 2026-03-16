@@ -1,0 +1,24 @@
+{
+  "ru": {
+    "file": "Файл",
+    "edit": "Правка",
+    "view": "Вид",
+    "tools": "Инструменты",
+    "help": "Справка",
+    "loaded": "Загружено",
+    "copied": "Скопировано",
+    "saved": "Сохранено",
+    "no_tags": "Нет тегов"
+  },
+  "en": {
+    "file": "File",
+    "edit": "Edit",
+    "view": "View",
+    "tools": "Tools",
+    "help": "Help",
+    "loaded": "Loaded",
+    "copied": "Copied",
+    "saved": "Saved",
+    "no_tags": "No tags"
+  }
+}
